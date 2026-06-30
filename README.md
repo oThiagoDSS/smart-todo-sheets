@@ -2,6 +2,14 @@
 
 A lightweight, automated productivity and media-tracking system built directly inside Google Sheets. This project uses **Google Apps Script (JavaScript)** to dynamically prioritize and organize lists in real-time based on custom user inputs.
 
+## 📊 Live Template
+
+To use this system yourself without having to configure everything from scratch, click the link below to generate a clean copy directly to your Google Drive (the automation script is already included):
+
+👉 **[Make a Copy of the Google Sheets Template](https://docs.google.com/spreadsheets/d/1s2BfbpayAXjUklATmjqDRnMZq2AVSCMVMzmhzT5sE7o/copy?gid=258249414#gid=258249414)**
+
+*Note: When editing for the first time, Google will ask for permission to run the script. This is standard security behavior for Apps Script.*
+
 ## 🚀 Features
 
 - **Automated Real-Time Sorting:** Whenever a task's priority is set or modified, the script automatically pushes higher priority items to the top.
